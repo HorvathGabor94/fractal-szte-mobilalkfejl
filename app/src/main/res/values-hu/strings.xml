@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fraktál</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="title_options">Opciók</string>
+    <string name="apply_button">Elfogadás</string>
+    <string name="cancel_button">Mégse</string>
+    <string name="navigation_title">Navigáció</string>
+    <string name="zoom_title">Közelítés</string>
+    <string name="rotation_title">Forgatás</string>
+    <string name="pan_title">Pozíció</string>
+    <string name="polarform_title">Polár Formában?</string>
+    <string name="degrees_title">Fokban?</string>
+    <string name="aesthetics_title">Esztétika</string>
+    <string name="clamp_title">Határok</string>
+    <string name="radius_title">Sugár</string>
+    <string name="symmetry_title">Szimmetria</string>
+    <string name="bailout_title">Elvetés</string>
+    <string name="iteration_title">Iteráció</string>
+    <string name="parameters_title">Paraméterek</string>
+    <string name="invert_title">Invertált?</string>
+    <string name="julia_title">Júlia?</string>
+    <string name="sweep_title">Seprés Alg.</string>
+    <string name="algorithm_title">Algoritmus</string>
+    <string name="prefix_title">Prefix Alg.</string>
+    <string name="infix_title">Infix Alg.</string>
+    <string name="seed_title">Alap</string>
+    <string name="power_title">Hatvány</string>
+    <string name="add_title">Hozzáadás</string>
+    <string name="multiply_title">Szorzás</string>
+    <string name="coloring_title">Színezés</string>
+    <string name="colorspace_title">SzínTér</string>
+    <string name="colormode_title">Módszer</string>
+    <string name="external_title">Belső</string>
+    <string name="peripheral_title">Perem</string>
+    <string name="internal_title">Külső</string>
+
+    <string-array name="color_definition_modes">
+        <item>alap</item>
+        <item>rgba</item>
+        <item>hsva</item>
+    </string-array>
+    <string-array name="coloring_algorithms">
+        <item>minimál</item>
+        <item>diszkrét</item>
+        <item>lineáris</item>
+        <item>színkavalkád</item>
+        <item>test_1</item>
+        <item>test_2</item>
+    </string-array>
+    <string-array name="fractal_algorithms">
+        <item>nincs</item>
+        <item>cos</item>
+        <item>sin</item>
+        <item>tan</item>
+        <item>ctg</item>
+        <item>sec</item>
+        <item>csc</item>
+        <item>cosh</item>
+        <item>sinh</item>
+        <item>tanh</item>
+        <item>ctgh</item>
+        <item>sech</item>
+        <item>csch</item>
+    </string-array>
+    <string-array name="sweep_algorithms">
+        <item>nincs</item>
+        <item>alfa</item>
+        <item>béta</item>
+    </string-array>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="options_label_width">100dp</dimen>
+    <dimen name="options_margin">5dp</dimen>
+    <dimen name="options_divider_height">50dp</dimen>
+</resources>

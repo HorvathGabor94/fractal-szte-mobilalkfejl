@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Fractal</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_options">Options</string>
+    <string name="apply_button">Apply</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="navigation_title">Navigation</string>
+    <string name="zoom_title">Zoom</string>
+    <string name="rotation_title">Rotation</string>
+    <string name="pan_title">Pan</string>
+    <string name="polarform_title">In Polar Form?</string>
+    <string name="degrees_title">In Degrees?</string>
+    <string name="aesthetics_title">Aesthetics</string>
+    <string name="clamp_title">Clamp</string>
+    <string name="radius_title">Radius</string>
+    <string name="symmetry_title">Symmetry</string>
+    <string name="bailout_title">Bailout</string>
+    <string name="iteration_title">Iteration</string>
+    <string name="parameters_title">Parameters</string>
+    <string name="invert_title">Is Inverted?</string>
+    <string name="julia_title">Is Julia?</string>
+    <string name="sweep_title">Sweep Alg.</string>
+    <string name="algorithm_title">Algorithm</string>
+    <string name="prefix_title">Prefix Alg.</string>
+    <string name="infix_title">Infix Alg.</string>
+    <string name="seed_title">Seed</string>
+    <string name="power_title">Power</string>
+    <string name="add_title">Add</string>
+    <string name="multiply_title">Multiply</string>
+    <string name="coloring_title">Coloring</string>
+    <string name="colorspace_title">ColorSpace</string>
+    <string name="colormode_title">Mode</string>
+    <string name="external_title">External</string>
+    <string name="peripheral_title">Peripheral</string>
+    <string name="internal_title">Internal</string>
+
+    <string-array name="color_definition_modes">
+        <item>default</item>
+        <item>rgba</item>
+        <item>hsva</item>
+    </string-array>
+    <string-array name="coloring_algorithms">
+        <item>minimal</item>
+        <item>discrete</item>
+        <item>linear</item>
+        <item>colorful</item>
+        <item>test_1</item>
+        <item>test_2</item>
+    </string-array>
+    <string-array name="fractal_algorithms">
+        <item>default</item>
+        <item>cos</item>
+        <item>sin</item>
+        <item>tan</item>
+        <item>ctg</item>
+        <item>sec</item>
+        <item>csc</item>
+        <item>cosh</item>
+        <item>sinh</item>
+        <item>tanh</item>
+        <item>ctgh</item>
+        <item>sech</item>
+        <item>csch</item>
+    </string-array>
+    <string-array name="sweep_algorithms">
+        <item>default</item>
+        <item>alpha</item>
+        <item>beta</item>
+    </string-array>
+</resources>
